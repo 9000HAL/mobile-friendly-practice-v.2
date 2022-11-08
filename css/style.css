@@ -1,0 +1,37 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: teal;
+}
+
+h3 {
+    justify-content: left;
+    font-size: small;
+}
+
+h4 {
+    color: teal;
+    font-size:x-large;
+    text-align: right;
+}
+
+h5 {
+    font-size: small;
+    text-align:right
+}
+
+footer {
+    text-align: center;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto
+}
